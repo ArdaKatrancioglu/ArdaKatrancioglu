@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a project called Suevical <br>🌱 I’m currently learning how to be a successful Software Engineer<br>💬 Ask me about anything you want <br>
+🔭 I’m currently working on a project called Suevical <br>🌱 I’m currently studying CSE in TuDelft<br>💬 Ask me about anything you want <br>
 
 
 ## 🌐 Socials:
